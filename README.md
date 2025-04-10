@@ -1,1 +1,1 @@
-# robotics_obstacle_course1
+While making the bot we had some problems since some members didn't show up for classes and we also had slight issues with code and making the robot move through our track. You can run the code by copy and pasting the existing code, downloadiing it onto your BaseBot and running the basebot. The robot was vrey agile and moved with ease, but we had problems with the turning angles. 
