@@ -1,1 +1,13 @@
 
+
+def when_started1():
+    global myVariable
+    drivetrain.drive_for(FORWARD, 37, INCHES)
+    drivetrain.turn_to_rotation(-90, DEGREES)
+    drivetrain.drive_for(FORWARD, 10, INCHES)
+    drivetrain.turn_to_rotation(-180, DEGREES)
+    drivetrain.drive_for(FORWARD, 31, INCHES)
+    drivetrain.turn_to_rotation(-90, DEGREES)
+    drivetrain.drive_for(FORWARD, 10, INCHES)
+    drivetrain.turn_to_rotation(360, DEGREES)
+    drivetrain.drive_for(FORWARD, 34, INCHES)
